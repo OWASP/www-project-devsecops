@@ -1,5 +1,7 @@
 ### Leaders
 
-[Ali Yazdani](mailto:ali.yazdani@owasp.org)</br>
-[Milan Singh Thakur](mailto:milan@owasp.org)</br>
-[More coming up]
+* [Ali Yazdani](mailto:ali.yazdani@owasp.org)
+* [Milan Singh Thakur](mailto:milan@owasp.org)
+* [Yudhi Yudhistira]()
+* [Timo Pagel]()
+* [Jamieson O'Reilly]()
