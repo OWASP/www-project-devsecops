@@ -5,7 +5,7 @@ title: OWASP DevSecOps
 tags: example-tag
 level: 2
 type: other
-pitch: A very brief, one-line description of your project
+pitch: The OWASP DevSecOps Project gives you clarity and indepth view of DevSecOps Umbrella
 
 ---
 
