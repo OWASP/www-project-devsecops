@@ -9,14 +9,18 @@ pitch: The OWASP DevSecOps Project gives you clarity and indepth view of DevSecO
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+## What is the difference between DSOVS, DVSGL, and DSOMM?  
+Many OWASP project followers often wonder about the differences between these projects and how they can have a better experience with them. This guide aims to provide clarity on these differences and help you make the most out of these projects. By improving our experience with these projects, we can take steps towards making them flagships in the world of DevSecOps.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+If you want to achieve a complete DevSecOps process, you can define the standard level you wish to attain using **DSOVS**. Then, you can implement it using **DSOGL** and measure it using **DSOMM** to ensure that you are moving in the right direction in line with your expectations and world standards.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+ OWASP DevSecOps Verification Standard                                  | OWASP DevSecOps Guideline                                             | OWASP DevSecOps Maturity Model                                     |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------|
+| **DSOVS**     | **DSOGL**        | **DSOMM** |
+| It provides a set of predefined security controls and requirements, establishing a standardized approach to security assessments. By adhering to this standard, organizations can undergo objective evaluations, allowing for consistent and thorough security assessments across various projects. This stringent approach aids in identifying vulnerabilities and ensuring that software development practices meet industry-established security benchmarks. | It offers adaptable recommendations and best practices, allowing organizations to customize their security strategies to fit their unique requirements. Emphasizing education and awareness, this initiative fosters a culture of security consciousness within development, security, and operations teams. By providing flexible guidelines, it encourages teams to learn, collaborate, and implement security measures effectively, ensuring a holistic and contextually relevant approach to DevSecOps.  |  provides a structured pathway for organizations to enhance their security practices incrementally. By assessing their current maturity level, organizations can identify specific areas for improvement. This model guides them in planning and implementing incremental enhancements, allowing for continuous growth in their DevSecOps capabilities. It emphasizes a step-by-step approach, enabling organizations to measure progress, adapt to emerging threats, and evolve their security practices over time. Through this gradual process, organizations can build robust DevSecOps frameworks that align with their evolving needs and security challenges.  |
+| **Define**  | **Implement** | **Measure** |
+| ![DSOVS](/assets/images/DSOVS.jpg) | ![DSOGL](/assets/images/DSOGL.jpg) | ![DSOMM](/assets/images/DSOMM.jpg) | 
+| [Project Page](https://owasp.org/www-project-devsecops-verification-standard/)   | [Project Page](https://owasp.org/www-project-devsecops-guideline/)    | [Project Page](https://owasp.org/www-project-devsecops-maturity-model/) |
+| [Project Repo](https://github.com/OWASP/www-project-devsecops-verification-standard)  | [Project Repo](https://github.com/OWASP/DevSecOpsGuideline)  | [Project Repo](https://github.com/devsecopsmaturitymodel/DevSecOps-MaturityModel) | 
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 3.5 - Production, 4 - Flagship)
-
-type: code, tool, documentation, or other
