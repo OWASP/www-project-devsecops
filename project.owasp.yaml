@@ -1,0 +1,23 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Ali Yazdani
+    email: ali.yazdani@owasp.org
+    github: Ali-Yazdani
+  - name: Milan Singh Thakur
+    email: milan@owasp.org
+    github: milanowasp
+level: 2
+name: OWASP DevSecOps
+pitch: The OWASP DevSecOps Project gives you clarity and indepth view of DevSecOps Umbrella
+repositories:
+  - name: www-project-devsecops
+    url: https://github.com/OWASP/www-project-devsecops
+    description: OWASP Foundation Web Repository
+tags:
+  - devsecops
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-devsecops
